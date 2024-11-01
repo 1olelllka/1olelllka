@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects for my portfolio<br>🌱 I’m currently learning Java Spring<br>💻 My current goal is to become backend developer<br>🧑🏻‍🎓 Student in 🇦🇹<br>🏡 From 🇺🇦
-
+🌱 I’m currently learning Backend Technologies like Spring Boot<br>💻 My current goal is to become backend developer<br>🧑🏻‍🎓 Student in 🇦🇹<br>🏡 From 🇺🇦 <br>🍪 Obsessed with cookies
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1olelllka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oleh-sichko-5a5b6231a) 
