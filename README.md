@@ -57,7 +57,7 @@
 ### 
 
 <h3 align="left">Leetcode stats</h3>
-<img src="https://www.readmecodegen.com/api/leetcode-stats/1olelllka?theme=gradient&reputation=false" width="400" />
+<img src="https://www.readmecodegen.com/api/leetcode-stats/1olelllka?theme=forest&reputation=false&font=%27Open+Sans%27%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal" width="400" />
 
 ###
 
