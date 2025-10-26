@@ -54,6 +54,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1olelllka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+### 
+
+<h3 align="left">Leetcode stats</h3>
+<img src="https://www.readmecodegen.com/api/leetcode-stats/1olelllka?theme=gradient&reputation=false" width="400" />
+
 ###
 
 <div>
